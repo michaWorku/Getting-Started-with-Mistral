@@ -14,27 +14,27 @@ By the end of this course, you'll be able to:
 
 ## **Course Content**
 
-1. [**Introduction to Mistral Models**]
+1. [**Introduction to Mistral Models**]()
    - Overview of Mistral’s model lineup and their capabilities.
    - Model selection based on complexity, performance, and cost.
 
-2. [**Prompting Capabilities**]()
+2. [**Prompting Capabilities**](https://github.com/michaWorku/Getting-Started-with-Mistral/blob/main/L2_prompting_capabilities.ipynb)
    - Prompt engineering techniques for classification, summarization, personalization, grammar correction, and JSON extraction.
    - API integration for structured responses.
 
-3. [**Model Selection**]()
+3. [**Model Selection**](https://github.com/michaWorku/Getting-Started-with-Mistral/blob/main/L3_model_selection.ipynb)
    - Practical guidance on when to use Mistral Small, Medium, and Large models.
    - Use case demonstrations: spam filtering, email generation, expense reporting, and code generation.
 
-4. [**Function Calling**]()
+4. [**Function Calling**](https://github.com/michaWorku/Getting-Started-with-Mistral/blob/main/L4_function_calling.ipynb)
    - Automating tool selection and external function invocation through Mistral’s function calling framework.
    - Sample application: querying a transaction dataset.
 
-5. [**Retrieval-Augmented Generation (RAG)**]()
+5. [**Retrieval-Augmented Generation (RAG)**](https://github.com/michaWorku/Getting-Started-with-Mistral/blob/main/L5_basic_RAG.ipynb)
    - Building a RAG pipeline with FAISS, web scraping, and Mistral embeddings.
    - Enhancing responses using contextual document retrieval.
 
-6. [**Chat Interface & RAG UI**]()
+6. [**Chat Interface & RAG UI**](https://github.com/michaWorku/Getting-Started-with-Mistral/blob/main/L6_chat_ui.ipynb)
    - Developing a user interface with the Panel library.
    - Switching between standard chat and RAG-based Q&A with document upload support.
 
@@ -43,14 +43,11 @@ By the end of this course, you'll be able to:
 
 The following Jupyter notebooks are included to support hands-on learning:
 
-- [L2_prompting_capabilities.ipynb]() – Explore prompt engineering and JSON mode with Mistral models.
-- [L3_model_selection.ipynb]() – Learn how to select and apply different Mistral models for specific tasks.
-- [L4_function_calling.ipynb]() – Implement and integrate function calling with tool selection and execution.
-- [L5_basic_RAG.ipynb]() – Build a basic RAG system using Mistral embeddings and FAISS.
-- [L6_chat_ui.ipynb]() – Create a user-friendly chat interface with document RAG capabilities.
-- [AI_greenhouse_gas.txt]() – (Text file, content-specific example)
-- [helper.py]() – Helper functions for loading API keys and managing calls.
-- [requirements.txt]() – Required Python dependencies.
+- [L2_prompting_capabilities.ipynb](https://github.com/michaWorku/Getting-Started-with-Mistral/blob/main/L2_prompting_capabilities.ipynb) – Explore prompt engineering and JSON mode with Mistral models.
+- [L3_model_selection.ipynb](https://github.com/michaWorku/Getting-Started-with-Mistral/blob/main/L3_model_selection.ipynb) – Learn how to select and apply different Mistral models for specific tasks.
+- [L4_function_calling.ipynb](https://github.com/michaWorku/Getting-Started-with-Mistral/blob/main/L4_function_calling.ipynb) – Implement and integrate function calling with tool selection and execution.
+- [L5_basic_RAG.ipynb](https://github.com/michaWorku/Getting-Started-with-Mistral/blob/main/L5_basic_RAG.ipynb) – Build a basic RAG system using Mistral embeddings and FAISS.
+- [L6_chat_ui.ipynb](https://github.com/michaWorku/Getting-Started-with-Mistral/blob/main/L6_chat_ui.ipynb) – Create a user-friendly chat interface with document RAG capabilities.
 
 
 ## **Getting Started**
